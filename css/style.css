@@ -1,0 +1,73 @@
+body {
+  font-family: "Times New Roman", serif;
+  background-color: white;
+  margin: 20px;
+}
+
+.sayfa {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 10px;
+}
+
+.logo img {
+  width: 270px;
+}
+
+/* gri arama kutusu */
+.arama-kutusu {
+  background-color: #eeeeee;
+  padding: 10px;
+  margin-bottom: 4px;
+}
+
+.arama-input {
+  width: 320px;
+  margin-top: 5px;
+}
+
+.butonlar {
+  margin-top: 5px;
+}
+
+/* yan yana 3 kutu */
+.alt-alan {
+  display: flex;
+  gap: 4px;
+}
+
+.kutu {
+  padding: 10px;
+}
+
+.sol {
+  width: 35%;
+  background-color: #7ee5da;
+}
+
+.orta {
+  width: 20%;
+  background-color: #70ccc2;
+  font-size: 13px;
+}
+
+.sag {
+  width: 45%;
+  background-color: #62b3aa;
+  font-size: 13px;
+}
+
+.mail-input {
+  width: 170px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.telif {
+  margin-top: 15px;
+  font-size: 13px;
+}
