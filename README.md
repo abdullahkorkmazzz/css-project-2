@@ -1,3 +1,5 @@
 # Google 1998 Homepage
 
-1998 yılındaki Google ana sayfasının HTML ve CSS kullanılarak hazırlanmış basit bir çalışması.
+A simple recreation of the 1998 Google homepage built with HTML and CSS.
+
+- **Live Demo:** [View Live Project](https://abdullahkorkmazzz.github.io/google-1998-homepage/)
